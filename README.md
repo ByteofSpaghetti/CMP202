@@ -1,1 +1,1 @@
-the 3 scanning files need ot be run on a windows machine that supports the Winsock API, and the DPC file must be run on a machine with DPC++ installed, available from Intel here https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html
+the 3 scanning files need to be run on a windows machine that supports the Winsock API, and the DPC file must be run on a machine with DPC++ installed, available from Intel here https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html
